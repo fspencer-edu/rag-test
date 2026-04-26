@@ -12,3 +12,7 @@
 - Streamlit
 - ChromaDB
 - SentenceTransformers
+
+## Run application
+
+`streamlit run app.py`
